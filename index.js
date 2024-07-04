@@ -9,20 +9,21 @@ const bookmarks = [
       { title: "🔃 Pulls", url: "https://github.com/product-analytica/productanalytica/pulls" },
       { title: "❗ Issues", url: "https://github.com/product-analytica/productanalytica/issues" },
       { title: "📊 Productanalytica", url: "https://github.com/product-analytica/productanalytica/" },
+      { title: "📒 Bretis2019", url: "https://github.com/Bretis2019" },
     ],
   },
   {
     title: "🏠 Localhost",
     links: [
-      { title: "🌐 3000", url: "http://localhost:3000" },
-      { title: "🔍 Consul", url: "http://localhost:8500/ui/" },
       { title: "🐘 Postgres", url: "http://localhost:5433/browser/" },
+      { title: "🔍 Consul", url: "http://localhost:8500/ui/" },
       { title: "🚀 Strapi", url: "http://localhost:1337/admin" },
-      { title: "🔌 3000/api", url: "http://localhost:3000/api" },
+      { title: "🐇 RabbitMQ", url: "http://localhost:15672/#/" },
+      { title: "🌐 3000", url: "http://localhost:3000" },
     ],
   },
   {
-    title: "🤖 AI",
+    title: "✨ AI",
     links: [
       {
         title: "🧠 Claude",
@@ -51,6 +52,7 @@ const bookmarks = [
       { title: "📸 Instagram", url: "https://www.instagram.com/" },
       { title: "✉️ Mail", url: "https://gmail.com/" },
       { title: "⌨️ Monkeytype", url: "https://monkeytype.com" },
+      { title: "📅 Calendar", url: "https://calendar.google.com/" },
     ],
   },
 ];
