@@ -41,6 +41,10 @@ const bookmarks = [
         title: "💎 Gemini",
         url: "https://gemini.google.com/",
       },
+      {
+        title: "🛠️ V0",
+        url: "https://v0.dev/",
+      },
     ],
   },
   {
@@ -49,10 +53,11 @@ const bookmarks = [
       { title: "♟️ Lichess", url: "https://lichess.org" },
       { title: "🗣️ Reddit", url: "https://reddit.com" },
       { title: "▶️ Youtube", url: "https://www.youtube.com/" },
-      { title: "📸 Instagram", url: "https://www.instagram.com/" },
+      { title: "📸 Instagram", url: "https://www.instagram.com/direct/inbox/" },
       { title: "✉️ Mail", url: "https://gmail.com/" },
       { title: "⌨️ Monkeytype", url: "https://monkeytype.com" },
       { title: "📅 Calendar", url: "https://calendar.google.com/" },
+      { title: "🛒 Ouedkniss", url: "https://www.ouedkniss.com/" },
     ],
   },
 ];
