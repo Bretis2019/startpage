@@ -19,6 +19,7 @@ const bookmarks = [
       { title: "🔍 Consul", url: "http://localhost:8500/ui/" },
       { title: "🚀 Strapi", url: "http://localhost:1337/admin" },
       { title: "🐇 RabbitMQ", url: "http://localhost:15672/#/" },
+      { title: "🕸️ Jaeger", url: "http://localhost:16686/" },
       { title: "🌐 3000", url: "http://localhost:3000" },
     ],
   },
